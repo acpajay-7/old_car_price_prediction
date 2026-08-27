@@ -36,7 +36,7 @@ function App() {
 
     try {
       const response = await fetch(
-  "https://old-car-price-prediction-8ubj.onrender.com/predict",
+  "https://carvalue-ai-b4mt.onrender.com/predict",
         {
           method: "POST",
           headers: {
